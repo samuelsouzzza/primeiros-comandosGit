@@ -1,0 +1,21 @@
+• Criar o repositório no seu perfil.
+• Code/copied! - Copiar o link do repositório.
+• Botão direito/Git Bash Here.
+
+____CONFIGURAÇÕES INICIAIS_____
+• git config --global user.name "nomeusuario"
+• git config --global user.email "email@email.com"
+
+____CLONANDO O REPOSITÓRIO____
+• git clone <https//www.github.com/seuperfil/seurepositorio>
+
+• Abrir a pasta do repositório no VsCode.
+
+___SUBINDO PRO GITHUB____
+• Fazer o trabalho.
+• git add .
+• git status
+• git commit -m "trabalho quase pronto"
+• git push
+
+___PRONTO_____
